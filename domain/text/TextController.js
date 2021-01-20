@@ -22,7 +22,7 @@ exports.getReverseText = (req, res) => {
       palindrome: isPalindrome,
     });
   } catch (error) {
-     console.log(error);
+    //  console.log(error);
      res.status(400).json({error:"There was a mistake"});
   }
 };
