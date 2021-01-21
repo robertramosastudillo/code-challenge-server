@@ -2,7 +2,7 @@
 --------------------------------------
 Modificar el archivo app.js en la sección de los cors de tal manera que nos quede asi:
 
-![Alt text](/assets/img/backend-locale.jpg?raw=true "Backend Locale")
+![Backend Locale](https://github.com/robertramosastudillo/code-challenge-server/blob/main/assets/img/backend-locale.png "Backend Locale")
 
 
 # Iniciar el proyecto 
